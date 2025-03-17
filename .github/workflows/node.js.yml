@@ -42,4 +42,4 @@ jobs:
         context: .
         file: ./dockerfile
         push: true
-        tags: souad/imagesrepository:latest
+        tags: souads20/inventory-service:latest
